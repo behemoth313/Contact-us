@@ -1,0 +1,33 @@
+.mera{
+    background-color: black;
+    color: white;
+    width: 220px;
+    padding: 18px 10px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    font-size: 15px;
+    
+}
+.nope{
+    display: flex;
+    padding: 54px 10px 22px 133px;
+}
+.tera{
+    padding: 18px 10px;
+    border: 1px solid black ;
+    color: black;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 220px;
+    width: 40%;
+    background-color: white;
+}
+
+.haa{
+    display: flexbox;
+    padding: 18px 10px 20px 20px;
+}
